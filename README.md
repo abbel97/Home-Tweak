@@ -20,9 +20,8 @@
 3. View submitted requests
 4. Delete/Edit a request
 
-#### Request Handling Options (We may do both)
-- **Option A:** Customer selects and assigns a specific Service Provider
-- **Option B:** Customer submits a request, and Professional can view and apply and customer can select    and confirm.
+#### Request Handling Options
+- Customer selects and assigns a specific Service Provider
 ---
 ### Professional Flow
 1. Register and Login
